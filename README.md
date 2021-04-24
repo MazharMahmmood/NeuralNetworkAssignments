@@ -1,1 +1,1 @@
-# NueralNetworkAssignments
+# NeuralNetworkAssignments
